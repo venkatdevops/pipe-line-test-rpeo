@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World!</h2>
+<h1> <body bgcolor=yellow> Hi your war file deployed by Jenkins </h1>
 </body>
 </html>
